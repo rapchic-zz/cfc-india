@@ -21,10 +21,14 @@ This application demonstrates a simple, reusable Node.js web application based o
 1. Fork the repo.
 2. To create a Deploy to IBM Cloud button, copy and modify one of the following snippet templates. Specify your Git repository and branch in the URL.
 ```
-<a href="https://cloud.ibm.com/devops/setup/deploy?repository=<git_repository_URL>&branch=<git_branch>"><img src="https://cloud.ibm.com/devops/setup/deploy/button.png" alt="Deploy to IBM Cloud"></a>```
-
+<a href="https://cloud.ibm.com/devops/setup/deploy?repository=<git_repository_URL>&branch=<git_branch>"><img src="https://cloud.ibm.com/devops/setup/deploy/button.png" alt="Deploy to IBM Cloud"></a>
+```
 [toolchain](img/pic1.png)
 
-2.
+2. Check the details, on this page.
 
-3. 
+[toolchain](img/pic2.png)
+
+3. Create an API key
+
+[toolchain](img/pic3.png)
