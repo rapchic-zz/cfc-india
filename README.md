@@ -11,3 +11,7 @@ This application demonstrates a simple, reusable Node.js web application based o
 1. Access the running app in a browser at <http://localhost:6001>
 
 [Install Node.js]: https://nodejs.org/en/download/
+
+## Run the app on IBM Cloud
+
+<a href="https://cloud.ibm.com/devops/setup/deploy?repository=https://github.com/rapchic/cfc-india&branch=master"><img src="https://cloud.ibm.com/devops/setup/deploy/button.png" alt="Deploy to IBM Cloud"></a>
