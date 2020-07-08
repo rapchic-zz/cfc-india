@@ -12,6 +12,19 @@ This application demonstrates a simple, reusable Node.js web application based o
 
 [Install Node.js]: https://nodejs.org/en/download/
 
-## Run the app on IBM Cloud
+## Deploy to IBM Cloud
 
 <a href="https://cloud.ibm.com/devops/setup/deploy?repository=https://github.com/rapchic/cfc-india&branch=master"><img src="https://cloud.ibm.com/devops/setup/deploy/button.png" alt="Deploy to IBM Cloud"></a>
+
+## Run the app on IBM Cloud
+
+1. Fork the repo.
+2. To create a Deploy to IBM Cloud button, copy and modify one of the following snippet templates. Specify your Git repository and branch in the URL.
+```
+<a href="https://cloud.ibm.com/devops/setup/deploy?repository=<git_repository_URL>&branch=<git_branch>"><img src="https://cloud.ibm.com/devops/setup/deploy/button.png" alt="Deploy to IBM Cloud"></a>```
+
+[toolchain](img/pic1.png)
+
+2.
+
+3. 
